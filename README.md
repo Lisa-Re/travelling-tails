@@ -124,7 +124,6 @@ travelling-tails/
 **Note:** Raw and processed datasets are stored locally and excluded from GitHub. The repository includes an example notebook demonstrating the initial data cleaning and preparation workflow. Running the notebook requires the corresponding source files in the expected local directories.
 
 ```
-------
 
 ```
 ## 🛠️ Tools and Technologies
