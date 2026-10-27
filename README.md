@@ -131,6 +131,25 @@ travelling-tails/
 
 - **Python:** Data processing and spatial analysis
 - **Pandas:** Data cleaning and manipulation
+- **GeoPandas & Shapely:** Geospatial data processing and spatial operations
+- **Jupyter Notebook:** Data exploration, cleaning, and documentation
+- **OpenStreetMap / Overpass Turbo:** Geographic data collection
+- **Tableau:** Interactive dashboards and data visualization
+
+---
+
+## 📄 Data Attribution & License
+
+- **Data Source:** Geographic data and facility information are sourced from [OpenStreetMap](https://www.openstreetmap.org/) contributors and extracted using [Overpass Turbo](https://overpass-turbo.eu/).
+- **Data License:** OpenStreetMap data is available under the [Open Database License (ODbL)](https://www.openstreetmap.org/copyright).
+- **Map Attribution:** Maps and visualizations based on OpenStreetMap data will include the attribution `© OpenStreetMap contributors`, as required.
+
+---
+```
+## 🛠️ Tools and Technologies
+
+- **Python:** Data processing and spatial analysis
+- **Pandas:** Data cleaning and manipulation
 - **GeoPandas & Shapely:** Geospatial data processing & spatial indexing
 - **Jupyter Notebook:** Exploratory analysis and documentation
 - **OpenStreetMap / Overpass Turbo:** Geographic data collection
