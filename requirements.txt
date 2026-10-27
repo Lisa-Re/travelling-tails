@@ -1,0 +1,10 @@
+
+pandas
+numpy
+geopandas
+shapely
+pyproj
+matplotlib
+seaborn
+jupyter
+ipykernel

@@ -1,0 +1,49 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+dogs/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+
+# Keep raw and processed datasets local
+data/raw/*
+data/processed/*
+
+# Keep the folders in Git even when empty
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+
+# Large generated data files
+*.parquet
+*.feather
+
+# Python test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
